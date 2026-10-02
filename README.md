@@ -1,4 +1,5 @@
-ꕤ DID system, but mainly `yuiyamu`
+ꕤ `yuiyamu` | technically DID system but really just me
 
-‧₊˚❀ we mostly do `webdev` stuff (especially work on [yuru.ca](https://yuru.ca)!) and enjoy [svelte](https://github.com/sveltejs/svelte) quite a bit\
-˗ˋˏ ♡ ˎˊ˗ respect [osu](https://github.com/ppy/osu)
+‧₊˚❀ i mostly do things in `C`, and occasional `webdev`/`typescript` stuff and enjoy [svelte](https://github.com/sveltejs/svelte) quite a bit\
+**˗ˋˏ ♡ ˎˊ˗ love old tech (especially `win2k` era) ˗ˋˏ ♡ ˎˊ˗**\
+✧˖°  oh! also i make [youtube](https://www.youtube.com/@yuiyamu) videos every now and then
